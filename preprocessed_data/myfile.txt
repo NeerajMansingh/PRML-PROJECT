@@ -1,0 +1,1 @@
+All preprocessed data are stored here (eg: after PCA, HoG, CNN, etc )
